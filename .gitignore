@@ -1,3 +1,7 @@
+# USER ADDED
+# Training data
+training_data_ignored
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
